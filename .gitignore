@@ -1,0 +1,8 @@
+*.lib
+*.dll
+*.exe
+*.pdb
+/.vscode
+*.exp
+*.rdbg
+*.ini
